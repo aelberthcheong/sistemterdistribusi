@@ -1,5 +1,4 @@
-rumusan masalah
-
+Cara Run & Build
 ```go
 // build the plugins first
 
